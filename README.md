@@ -2,7 +2,7 @@
 
 An end-to-end analysis of 34,758 hourly bike-rental records (2021–2022). The data is stored in an Oracle database, combined and enriched with SQL (revenue, cost and profit per record), then visualised in an interactive Power BI dashboard that answers one question: **when are we making money?**
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard-Screenshot.png)
 
 ## Data
 
