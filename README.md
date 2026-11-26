@@ -6,7 +6,6 @@ An end-to-end analysis of 34,758 hourly bike-rental records (2021–2022). The d
 
 ## Data
 
-- Source: the public GitHub repository [Gaelim/YT_bike_share](https://github.com/Gaelim/YT_bike_share) (files `bike_share_yr_0.csv`, `bike_share_yr_1.csv` and `cost_table.csv`). The data is not my own; all credit goes to the original author. The raw CSV files are not included here; please download them from the source repository.
 - Three tables: `customer_0`, `customer_1` (hourly rides by rider type) and `price` (ticket price and cost of goods sold per year).
 - 34,758 rows in total.
 
